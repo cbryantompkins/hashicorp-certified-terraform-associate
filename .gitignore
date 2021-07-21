@@ -17,3 +17,5 @@
 
 # Ignore .pem files
 #*.pem
+.DS_Store
+02-Terraform-Basics/.DS_Store
